@@ -2,9 +2,9 @@ import React from 'react'
 
 const Country = () => {
   return (
-    <div>
-      Country
-    </div>
+    <section class="country-section">
+      <h1>Country</h1>
+    </section>
   )
 }
 

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "country_name": "Nepal",
+      "capital": "Kathmandu",
+      "population": 30000000,
+      "interesting_fact": "Nepal is home to Mount Everest, the highest mountain in the world."
+    },
+    {
+      "id": 2,
+      "country_name": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interesting_fact": "Japan has more than 6,800 islands, with Honshu being the largest."
+    },
+    {
+      "id": 3,
+      "country_name": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interesting_fact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 4,
+      "country_name": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interesting_fact": "Australia is home to over 10,000 beaches—visiting one daily would take 27 years!"
+    },
+    {
+      "id": 5,
+      "country_name": "Brazil",
+      "capital": "Brasília",
+      "population": 214000000,
+      "interesting_fact": "Brazil has the Amazon Rainforest, which produces 20% of the world’s oxygen."
+    },
+    {
+      "id": 6,
+      "country_name": "France",
+      "capital": "Paris",
+      "population": 67000000,
+      "interesting_fact": "The Eiffel Tower in Paris grows about 15 cm taller in summer due to heat expansion."
+    },
+    {
+      "id": 7,
+      "country_name": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interesting_fact": "India is the world's largest democracy and the second-most populous country."
+    },
+    {
+      "id": 8,
+      "country_name": "Egypt",
+      "capital": "Cairo",
+      "population": 109000000,
+      "interesting_fact": "The Great Pyramid of Giza is the only remaining Wonder of the Ancient World."
+    },
+    {
+      "id": 9,
+      "country_name": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "interesting_fact": "Germany is home to over 20,000 castles, many of which are open to visitors."
+    },
+    {
+      "id": 10,
+      "country_name": "South Africa",
+      "capital": "Pretoria",
+      "population": 60000000,
+      "interesting_fact": "South Africa has three capital cities: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+    }
+  ]
+  
