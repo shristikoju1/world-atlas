@@ -10,7 +10,6 @@ const Headers = () => {
             <div className='Logo'>
               <NavLink to={"/"}>
                 <h1>WorldAtlas</h1>
-
               </NavLink>
             </div>
 

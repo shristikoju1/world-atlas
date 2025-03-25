@@ -68,6 +68,13 @@
       "capital": "Pretoria",
       "population": 60000000,
       "interesting_fact": "South Africa has three capital cities: Pretoria (executive), Bloemfontein (judicial), and Cape Town (legislative)."
+    },
+    {
+      "id": 11,
+      "country_name": "China",
+      "capital": "Beijing",
+      "population": 1412000000,
+      "interesting_fact": "China is home to the Great Wall, the longest wall in the world, stretching over 13,000 miles."
     }
   ]
   
